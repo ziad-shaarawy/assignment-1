@@ -11,7 +11,7 @@ struct student
 {
     char name[100];
     int id;
-    struct birth year;
+    struct birth date;
     int score;
 };
 
