@@ -83,7 +83,7 @@ while(temp2!=NULL)
  printf("score of student is %d\n\n",temp2->stu.score);
 
  temp2=temp2->next;
- }
+ }}
 
 
 int element_size =sizeof(struct student);
